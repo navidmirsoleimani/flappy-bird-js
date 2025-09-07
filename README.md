@@ -3,7 +3,7 @@
 A simple yet fun **Flappy Bird clone** built with **HTML, CSS, and Vanilla JavaScript (Canvas API)**.
 The project recreates the nostalgic gameplay of the original Flappy Bird, complete with physics, animations, sound effects, and score tracking.
 
-🔗 **Live Demo**: [AI Agency](https://navidmirsoleimani.github.io/flappy-bird-js)
+🔗 **Live Demo**: [Flappy Bird](https://navidmirsoleimani.github.io/flappy-bird-js)
 
 ---
 
