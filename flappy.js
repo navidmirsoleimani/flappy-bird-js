@@ -129,7 +129,7 @@ let bird = {
   x : 50,
   y : 150,
   speed : 0,
-  gravity : 0.25,
+  gravity : 0.15,
   jump : 4.6,
   rotation : 0,
   animationIndex : 0,
