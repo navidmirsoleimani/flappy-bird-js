@@ -129,7 +129,7 @@ let bird = {
   x : 50,
   y : 150,
   speed : 0,
-  gravity : 0.15,
+  gravity : 0.20,
   jump : 4.6,
   rotation : 0,
   animationIndex : 0,
@@ -184,7 +184,7 @@ let pipes = {
   w : 53,
   h : 400,
   dx : 2,
-  gap : 105,
+  gap : 95,
   position : [],
   maxYPos : -150,
   draw : function() {
